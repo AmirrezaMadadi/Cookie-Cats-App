@@ -18,4 +18,6 @@ We divide all the game players between two versions A (gate_30) and B (gate_40).
 # Conclusion
 According to the significance level as well as A/B testing, we came to the conclusion that if we show the ad in the 40th level, the average number of rounds played by the players will increase compared to when the ad is shown in We were showing the 30th level.
 
+In addition to changing the place where the ad is displayed, it is better to consider a reward related to the game for the person who opens the link in exchange for seeing the ad. In this case, the satisfaction of the players will increase.
+
 
