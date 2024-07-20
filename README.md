@@ -1,4 +1,5 @@
 # Cookie-Cats-App
+![](https://i.pinimg.com/564x/eb/3c/4b/eb3c4b5be29530a68c32434297d6f8b5.jpg)
 # Description
 Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three" style puzzle game where the player must connect tiles of the same color in order to clear the board and win the level. It also features singing cats.
 
