@@ -60,7 +60,9 @@ def AB_testing(data, version, target, alpha):
     import pandas as pd
     import numpy as np
     import scipy.stats as stats
-    from scipy.stats import shapiro
+    from scipy.stats import shapiro, kstest, anderson, normaltest, jarque_bera
+    # import matplotlib.pyplot as plt
+    # import seaborn as sns
 
     # Split A/B Versions
     group_A = data[data[version] == 'A'][target]
